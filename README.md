@@ -99,3 +99,5 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 Acknowledgments
 
 Special thanks to TensorFlow and Keras for providing powerful tools to build deep learning models, and to the creators of the datasets used in this project.
+
+Medium Link: https://medium.com/@susmoyd21/building-a-cnn-to-classify-cats-and-dogs-a-step-by-step-guide-ba5a7007dbfe
